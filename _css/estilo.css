@@ -175,8 +175,8 @@ header#cabecalho-artigo h3 {
     margin-top: 0px;
 }
 
-.direita {
-    text-align: right;
+.esquerda {
+    text-align: left;
 }
 
 table#tabelaspec {
